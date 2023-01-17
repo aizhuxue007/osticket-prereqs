@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial walks through installing and configuring the dependencies for OSTickets.<br />
+This tutorial walks through installing and configuring the dependencies required for OSTickets.<br />
 
 
 <h2>Video Demonstration</h2>
