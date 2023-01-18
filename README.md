@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Prerequisites and Pre-installation</h1>
 This tutorial walks through installing and configuring the dependencies required for OSTickets.<br />
 
 
@@ -33,11 +33,11 @@ This tutorial walks through installing and configuring the dependencies required
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<h4>
 1. Create a Windows 10 Virtual Machine in Azure
 - VM name: vm-ostickets
 - Tip: Remember to use a text editor to save your username and passwords!
-</p>
+</h4>
 <br />
 
 <p>
