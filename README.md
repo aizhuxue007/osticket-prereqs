@@ -44,8 +44,8 @@ This tutorial walks through installing and configuring the dependencies required
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Remote into vm-ostickets
-- Use Microsoft Remote Desktop if you have macOS.
+2. Remote into vm-ostickets <br>
+- Use Microsoft Remote Desktop if you have macOS. <br>
 - Use Remote Desktop if your are operating on Windows.
 </p>
 <br />
@@ -54,8 +54,8 @@ This tutorial walks through installing and configuring the dependencies required
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Install and Enable IIS
-- Make sure CGI is checked
+3. Install and Enable IIS <br>
+- Make sure CGI is checked.
 </p>
 <br />
 
@@ -63,11 +63,11 @@ This tutorial walks through installing and configuring the dependencies required
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Download these files
-- [PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)
-- [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
-- [PHP 7.3.8](https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link)
-- [Microsoft Visual C++ 2009 Redistributable Package](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link)
+3. Download these files: <br>
+- [PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link) <br>
+- [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link) <br>
+- [PHP 7.3.8](https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link) <br>
+- [Microsoft Visual C++ 2009 Redistributable Package](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link) <br>
 - [MySQL 5.5.62](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link)
 </p>
 <br />
@@ -76,14 +76,12 @@ This tutorial walks through installing and configuring the dependencies required
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Install 
-- [PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)
-- [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
-- [Microsoft Visual C++ 2009 Redistributable Package](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link)
-- [MySQL 5.5.62](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link)
-    - Typical Setup ->
-    - Launch Configuration Wizard (after install) ->
-    - Standard Configuration ->
+3. Install Dependencies: <br>
+- [PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link) <br>
+- [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link) <br>
+- [Microsoft Visual C++ 2009 Redistributable Package](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link) <br>
+- [MySQL 5.5.62](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link) <br>
+    - Select typical and standard setup. <br>
     - Setup an easy to remember password, i.e. Password1
 </p>
 <br />
@@ -92,9 +90,9 @@ This tutorial walks through installing and configuring the dependencies required
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Extracting PHP files
-- create a PHP folder in C drive (C:/PHP)
-- unzip php-7.3.8-nts-Win32-VC15-x86.zip contents into C:/PHP
+4. Extract PHP files to new directory<br>
+- create a folder called PHP in C drive (C:/PHP) <br>
+- unzip the php.zip contents into C:/PHP
 </p>
 
 
@@ -102,17 +100,10 @@ This tutorial walks through installing and configuring the dependencies required
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Open IIS as admin
+5. Right-click on IIS to open as administrator.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-5. Open IIS as admin
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
