@@ -33,11 +33,11 @@ This tutorial walks through installing and configuring the dependencies required
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h4>
+<p>
 1. Create a Windows 10 Virtual Machine in Azure
+</p>
 - VM name: vm-ostickets
 - Tip: Remember to use a text editor to save your username and passwords!
-</h4>
 <br />
 
 <p>
