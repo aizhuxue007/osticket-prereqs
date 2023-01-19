@@ -32,7 +32,7 @@ This tutorial walks through installing and configuring the dependencies required
 
 
 <p>
-1. Create a Windows 10 Virtual Machine in Azure <br>
+1. Create a Windows 10 Virtual Machine in Azure. <br>
 </p>
 <p>
 <a href="https://ibb.co/KhfwTF7"><img src="https://i.ibb.co/3djzgBW/1createvirtualmachine.png" alt="createvirtualmachine" border="0"></a>
@@ -43,7 +43,7 @@ This tutorial walks through installing and configuring the dependencies required
 
 
 <p>
-2. Remote into vm-ostickets <br>
+2. Remote into vm-ostickets. <br>
 - Use Microsoft Remote Desktop if you have macOS. <br>
 - Use Remote Desktop if your are operating on Windows. <br>
 - Copy and paste vm-osticket's public IP address and enter into remote desktop prompt.
@@ -55,7 +55,7 @@ This tutorial walks through installing and configuring the dependencies required
 
 
 <p>
-3. Install and Enable Internet Information Services <br>
+3. Install and Enable Internet Information Services. <br>
 - Pull up the Control Panel then click on Turn on Windows features <br>
 - Select the box next to Internet Information Services. <br>
 - Make sure CGI is checked and hit OK.
@@ -69,7 +69,7 @@ This tutorial walks through installing and configuring the dependencies required
 
 
 <p>
-4. Download these 5 files <br>
+4. Download these 5 files. <br>
 - <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a> <br>
 - <a href="https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link">Rewrite Module</a> <br>
 - <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link">PHP 7.3.8</a> <br>
@@ -98,7 +98,7 @@ This tutorial walks through installing and configuring the dependencies required
 
 
 <p>
-6. Extracting and moving PHP files<br>
+6. Extracting and moving PHP files.<br>
 - create a folder called PHP in C drive (C:/PHP). <br>
 - extract all the files in the php.zip contents into C:/PHP
 </p>
@@ -118,7 +118,7 @@ This tutorial walks through installing and configuring the dependencies required
 <br />
 
 <p>
-8. Register PHP from within IIS
+8. Register PHP from within IIS.
 </p>
 <p>
 <a href="https://ibb.co/5MNDLy1"><img src="https://i.ibb.co/Qb2BMRJ/12registerphp.png" alt="12registerphp" border="0"></a>
@@ -128,7 +128,7 @@ This tutorial walks through installing and configuring the dependencies required
 <br />
 
 <p>
-9. Restart IIS (click restart button on IIS panel)
+9. Restart IIS (click restart button on IIS panel).
 </p>
 <p>
 <a href="https://ibb.co/p3VM0n7"><img src="https://i.ibb.co/8jvfKXC/restart-IISpreinstall.png" alt="restart-IISpreinstall" border="0"></a>
