@@ -58,7 +58,7 @@ This tutorial walks through installing and configuring the dependencies required
 3. Install and Enable Internet Information Services <br>
 - Pull up the Control Panel then click on Turn on Windows features <br>
 - Select the box next to Internet Information Services. <br>
-- Make sure CGI is checked.
+- Make sure CGI is checked and hit OK.
 </p>
 <p>
 <a href="https://ibb.co/QJPYRX6"><img src="https://i.ibb.co/0nCYSQf/4clickturnwindowsfeatures.png" alt="4clickturnwindowsfeatures" border="0"></a>
