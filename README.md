@@ -45,10 +45,11 @@ This tutorial walks through installing and configuring the dependencies required
 <p>
 2. Remote into vm-ostickets <br>
 - Use Microsoft Remote Desktop if you have macOS. <br>
-- Use Remote Desktop if your are operating on Windows.
+- Use Remote Desktop if your are operating on Windows. <br>
+- Copy and paste vm-osticket's public IP address and enter into remote desktop prompt.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/jr4b3V0"><img src="https://i.ibb.co/5RcGsYp/3remoteintovm.png" alt="3remoteintovm" border="0"></a>
 </p>
 <br />
 
