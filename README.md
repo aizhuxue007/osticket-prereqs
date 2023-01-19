@@ -83,7 +83,7 @@ This tutorial walks through installing and configuring the dependencies required
 
 
 <p>
-5. Install These Dependencies in This Order: <br>
+5. Install the Dependencies: <br>
 - PHP Manager for IIS<br>
 - Rewrite Module <br>
 - Microsoft Visual C++ 2009 Redistributable Package <br>
