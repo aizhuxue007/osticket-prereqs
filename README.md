@@ -37,7 +37,7 @@ This tutorial walks through installing and configuring the dependencies required
 1. Create a Windows 10 Virtual Machine in Azure <br>
 - Type and enter portal.azure in URL search box. <br>
 - Create new Azure virtual machine. <br>
-- New resource group: ostickets-rg. <br>
+- Name new resource group: ostickets-rg. <br>
 - VM name: vm-ostickets <br>
 - Tip: Remember to use a text editor to save your username and passwords!
 </p>
