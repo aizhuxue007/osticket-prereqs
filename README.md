@@ -58,8 +58,8 @@ This tutorial walks through installing and configuring the dependencies required
 </p>
 <p>
 3. Install and Enable Internet Information Services <br>
-- Pull up the Control Panel then click on Turn on Windows features under Programs and Features.
-- Select the box next to Internet Information Services.
+- Pull up the Control Panel then click on Turn on Windows features under Programs and Features. <br>
+- Select the box next to Internet Information Services. <br>
 - Make sure CGI is checked.
 </p>
 <br />
@@ -69,11 +69,11 @@ This tutorial walks through installing and configuring the dependencies required
 </p>
 <p>
 3. Download these 5 files: </p>
-- [PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link) <br>
-- [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link) <br>
-- [PHP 7.3.8](https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link) <br>
-- [Microsoft Visual C++ 2009 Redistributable Package](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link) <br>
-- [MySQL 5.5.62](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link)
+- <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a> <br>
+- <a href="https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link">Rewrite Module</a> <br>
+- <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link">PHP 7.3.8</a> <br>
+- <a href="https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link">Microsoft Visual C++ 2009 Redistributable Package</a> <br>
+- <a href="https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link">MySQL 5.5.62</a>
 
 <br />
 
@@ -95,7 +95,7 @@ This tutorial walks through installing and configuring the dependencies required
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Extract PHP.zip content to new directory<br>
+4. Extracting and moving PHP files<br>
 - create a folder called PHP in C drive (C:/PHP). <br>
 - extract all the files in the php.zip contents into C:/PHP
 </p>
