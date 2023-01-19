@@ -125,3 +125,5 @@ This tutorial walks through installing and configuring the dependencies required
 6. Restart IIS (click restart button on IIS panel)
 </p>
 <br />
+
+<a href="https://github.com/aizhuxue007/osticket-installation">Go to Installation</a>
