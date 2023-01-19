@@ -36,33 +36,35 @@ This tutorial walks through installing and configuring the dependencies required
 </p>
 <p>
 <a href="https://ibb.co/KhfwTF7"><img src="https://i.ibb.co/3djzgBW/1createvirtualmachine.png" alt="createvirtualmachine" border="0"></a>
+ <img src="https://imgur.com/a/vAZMBWh" alt="deployedvm" border="0">
 </p>
+
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 2. Remote into vm-ostickets <br>
 - Use Microsoft Remote Desktop if you have macOS. <br>
 - Use Remote Desktop if your are operating on Windows.
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+
 <p>
 3. Install and Enable Internet Information Services <br>
 - Pull up the Control Panel then click on Turn on Windows features <br>
 - Select the box next to Internet Information Services. <br>
 - Make sure CGI is checked.
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+
 <p>
 4. Download these 5 files <br>
 - <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a> <br>
@@ -71,11 +73,12 @@ This tutorial walks through installing and configuring the dependencies required
 - <a href="https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link">Microsoft Visual C++ 2009 Redistributable Package</a> <br>
 - <a href="https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link">MySQL 5.5.62</a>
  </p>
-<br>
-
-<p>
+ <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br>
+
+
 <p>
 5. Install These Dependencies in This Order: <br>
 - PHP Manager for IIS<br>
@@ -85,40 +88,45 @@ This tutorial walks through installing and configuring the dependencies required
     - Select typical and standard setup. <br>
     - Setup an easy to remember password, i.e. Password1
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+
 <p>
 6. Extracting and moving PHP files<br>
 - create a folder called PHP in C drive (C:/PHP). <br>
 - extract all the files in the php.zip contents into C:/PHP
 </p>
-
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+
+
 <p>
 7. Right-click on IIS to open as administrator.
 </p>
-<br />
-
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
 8. Register PHP from within IIS
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
 9. Restart IIS (click restart button on IIS panel)
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
