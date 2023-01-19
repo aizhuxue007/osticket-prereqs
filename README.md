@@ -61,7 +61,9 @@ This tutorial walks through installing and configuring the dependencies required
 - Make sure CGI is checked.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/QJPYRX6"><img src="https://i.ibb.co/0nCYSQf/4clickturnwindowsfeatures.png" alt="4clickturnwindowsfeatures" border="0"></a>
+ <a href="https://ibb.co/FbtSxZy"><img src="https://i.ibb.co/3yHDr6j/6clickwwwservices.png" alt="6clickwwwservices" border="0"></a>
+ <a href="https://ibb.co/2jChcrq"><img src="https://i.ibb.co/NLJCWqx/7applicationfeaturescgi.png" alt="7applicationfeaturescgi" border="0"></a>
 </p>
 <br />
 
@@ -75,7 +77,7 @@ This tutorial walks through installing and configuring the dependencies required
 - <a href="https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link">MySQL 5.5.62</a>
  </p>
  <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/ftnY4sF"><img src="https://i.ibb.co/bL2gzkm/9downloadthese5.png" alt="9downloadthese5" border="0"></a>
 </p>
 <br>
 
@@ -86,11 +88,11 @@ This tutorial walks through installing and configuring the dependencies required
 - Rewrite Module <br>
 - Microsoft Visual C++ 2009 Redistributable Package <br>
 - MySQL 5.5.62 <br>
-    - Select typical and standard setup. <br>
-    - Setup an easy to remember password, i.e. Password1
+&emsp;- Select typical and standard setup. <br>
+&emsp;- Setup an easy to remember password, i.e. Password1
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/mz73pMx"><img src="https://i.ibb.co/ryJV91W/10these5downloaded.png" alt="10these5downloaded" border="0"></a>
 </p>
 <br />
 
@@ -108,10 +110,10 @@ This tutorial walks through installing and configuring the dependencies required
 
 
 <p>
-7. Right-click on IIS to open as administrator.
+ 7. Right-click on IIS to <strong>open as administrator.</strong>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/V2xqCTY"><img src="https://i.ibb.co/hDcmdVF/11open-IISasadmin.png" alt="11open-IISasadmin" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>find duplicate values online</a><br />
 </p>
 <br />
 
@@ -119,7 +121,9 @@ This tutorial walks through installing and configuring the dependencies required
 8. Register PHP from within IIS
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/5MNDLy1"><img src="https://i.ibb.co/Qb2BMRJ/12registerphp.png" alt="12registerphp" border="0"></a>
+ <a href="https://ibb.co/yntBnVy"><img src="https://i.ibb.co/ns98sRc/13phpmanager.png" alt="13phpmanager" border="0"></a>
+ <a href="https://ibb.co/FBN59JP"><img src="https://i.ibb.co/nDZ7TfW/15providepath.png" alt="15providepath" border="0"></a>
 </p>
 <br />
 
@@ -127,7 +131,7 @@ This tutorial walks through installing and configuring the dependencies required
 9. Restart IIS (click restart button on IIS panel)
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/p3VM0n7"><img src="https://i.ibb.co/8jvfKXC/restart-IISpreinstall.png" alt="restart-IISpreinstall" border="0"></a>
 </p>
 <br />
 
