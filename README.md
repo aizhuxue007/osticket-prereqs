@@ -35,7 +35,7 @@ This tutorial walks through installing and configuring the dependencies required
 1. Create a Windows 10 Virtual Machine in Azure <br>
 </p>
 <p>
-<img src="https://ibb.co/KhfwTF7" height="80%" width="80%" alt="Create VM"/>
+<a href="https://ibb.co/KhfwTF7"><img src="https://i.ibb.co/3djzgBW/1createvirtualmachine.png" alt="createvirtualmachine" border="0"></a>
 </p>
 <br />
 
