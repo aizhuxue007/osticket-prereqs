@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Pre-installation</h1>
+<h1>osTicket - Prerequisites and Preinstallation</h1>
 This tutorial walks through installing and configuring the dependencies required for OSTickets.<br />
 
 
