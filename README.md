@@ -12,7 +12,7 @@ This tutorial walks through installing and configuring the dependencies required
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machine)
 - Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
@@ -28,18 +28,14 @@ This tutorial walks through installing and configuring the dependencies required
 - [Microsoft Visual C++ 2009 Redistributable Package](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link)
 - [MySQL 5.5.62](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link)
 
-<h2>Pre-installation Steps</h2>
+<h2>Pre-installation Walkthrough</h2>
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1. Create a Windows 10 Virtual Machine in Azure <br>
 </p>
 <p>
-1. Create a Windows 10 Virtual Machine in Azure <br>
-- Type and enter portal.azure in URL search box. <br>
-- Create new Azure virtual machine. <br>
-- Name new resource group: ostickets-rg. <br>
-- VM name: vm-ostickets <br>
-- Tip: Remember to use a text editor to save your username and passwords!
+<img src="https://ibb.co/KhfwTF7" height="80%" width="80%" alt="Create VM"/>
 </p>
 <br />
 
@@ -58,7 +54,7 @@ This tutorial walks through installing and configuring the dependencies required
 </p>
 <p>
 3. Install and Enable Internet Information Services <br>
-- Pull up the Control Panel then click on Turn on Windows features under Programs and Features. <br>
+- Pull up the Control Panel then click on Turn on Windows features <br>
 - Select the box next to Internet Information Services. <br>
 - Make sure CGI is checked.
 </p>
