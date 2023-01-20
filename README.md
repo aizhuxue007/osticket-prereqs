@@ -6,9 +6,9 @@
 This tutorial walks through installing and configuring the dependencies required for OSTickets.<br />
 
 
-<h2>Video Demonstration</h2>
+<!-- <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com) -->
 
 <h2>Environments and Technologies Used</h2>
 
