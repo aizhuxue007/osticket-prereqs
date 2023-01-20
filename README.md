@@ -36,7 +36,6 @@ This tutorial walks through installing and configuring the dependencies required
 </p>
 <p>
 <a href="https://ibb.co/KhfwTF7"><img src="https://i.ibb.co/3djzgBW/1createvirtualmachine.png" alt="createvirtualmachine" border="0"></a>
- <img src="https://imgur.com/a/vAZMBWh" alt="deployedvm" border="0">
 </p>
 
 <br />
@@ -77,7 +76,6 @@ This tutorial walks through installing and configuring the dependencies required
 - <a href="https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link">MySQL 5.5.62</a>
  </p>
  <p>
-<a href="https://ibb.co/ftnY4sF"><img src="https://i.ibb.co/bL2gzkm/9downloadthese5.png" alt="9downloadthese5" border="0"></a>
 </p>
 <br>
 
@@ -113,7 +111,7 @@ This tutorial walks through installing and configuring the dependencies required
  7. Right-click on IIS to <strong>open as administrator.</strong>
 </p>
 <p>
-<a href="https://ibb.co/V2xqCTY"><img src="https://i.ibb.co/hDcmdVF/11open-IISasadmin.png" alt="11open-IISasadmin" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>find duplicate values online</a><br />
+<a href="https://ibb.co/V2xqCTY"><img src="https://i.ibb.co/hDcmdVF/11open-IISasadmin.png" alt="11open-IISasadmin" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'></a><br />
 </p>
 <br />
 
@@ -135,5 +133,7 @@ This tutorial walks through installing and configuring the dependencies required
 <a href="https://ibb.co/p3VM0n7"><img src="https://i.ibb.co/8jvfKXC/restart-IISpreinstall.png" alt="restart-IISpreinstall" border="0"></a>
 </p>
 <br />
+
+Congrats! Preinstallation is complete!
 
 <a href="https://github.com/aizhuxue007/osticket-installation">Go to Installation</a>
