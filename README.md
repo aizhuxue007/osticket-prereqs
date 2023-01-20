@@ -116,7 +116,7 @@ This tutorial walks through installing and configuring the dependencies required
 <br />
 
 <p>
-8. Register PHP from within IIS.
+8. Register PHP from within IIS. <br>
  - Provide path for php-cgi.exe to prompt.
 </p>
 <p>
