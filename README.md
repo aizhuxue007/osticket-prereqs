@@ -48,7 +48,8 @@ This tutorial walks through installing and configuring the dependencies required
 - Copy and paste vm-osticket's public IP address into remote desktop prompt.
 </p>
 <p>
-<img width="705" alt="3remoteintovm" src="https://user-images.githubusercontent.com/17282458/213870100-3e809f0e-17bb-4baf-b09c-c228b15a19d4.png">
+<img width="672" alt="step2_remotetovm" src="https://user-images.githubusercontent.com/17282458/213871340-9e07b4a7-21c2-4bb3-9890-bdbde918d692.png">
+
 
 </p>
 <br />
