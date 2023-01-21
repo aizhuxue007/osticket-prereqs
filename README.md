@@ -60,7 +60,7 @@ This tutorial walks through installing and configuring the dependencies required
 - Pull up the Control Panel then click on Turn on Windows features <br>
 - Select the box next to Internet Information Services. <br>
 - Make sure CGI is checked and hit OK. <br>
-- Check if ISS is working by browsing 127.0.0.1.
+- Check if ISS is working by browsing 127.0.0.1. (your localhost)
 </p>
 <p>
  <img width="1166" alt="4clickturnwindowsfeatures" src="https://user-images.githubusercontent.com/17282458/213870117-947792d4-59ed-41ad-b289-c3e3c16ffaa7.png">
