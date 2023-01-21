@@ -117,7 +117,8 @@ This tutorial walks through installing and configuring the dependencies required
  7. Right-click on IIS to <strong>open as administrator.</strong>
 </p>
 <p>
-<a href="https://ibb.co/V2xqCTY"><img src="https://i.ibb.co/hDcmdVF/11open-IISasadmin.png" alt="11open-IISasadmin" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'></a><br />
+<img width="669" alt="11openIISasadmin" src="https://user-images.githubusercontent.com/17282458/213871072-c243bb4a-3dcc-4afa-82e5-8fef36505263.png">
+
 </p>
 <br />
 
