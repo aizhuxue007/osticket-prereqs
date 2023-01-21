@@ -48,7 +48,8 @@ This tutorial walks through installing and configuring the dependencies required
 - Copy and paste vm-osticket's public IP address into remote desktop prompt.
 </p>
 <p>
-<a href="https://ibb.co/jr4b3V0"><img src="https://i.ibb.co/5RcGsYp/3remoteintovm.png" alt="3remoteintovm" border="0"></a>
+<img width="705" alt="3remoteintovm" src="https://user-images.githubusercontent.com/17282458/213870100-3e809f0e-17bb-4baf-b09c-c228b15a19d4.png">
+
 </p>
 <br />
 
@@ -57,14 +58,17 @@ This tutorial walks through installing and configuring the dependencies required
 3. Install and Enable Internet Information Services. <br>
 - Pull up the Control Panel then click on Turn on Windows features <br>
 - Select the box next to Internet Information Services. <br>
-- Make sure CGI is checked and hit OK.
+- Make sure CGI is checked and hit OK. <br>
+- Check if ISS is working by browsing 127.0.0.1.
 </p>
 <p>
-<a href="https://ibb.co/QJPYRX6"><img src="https://i.ibb.co/0nCYSQf/4clickturnwindowsfeatures.png" alt="4clickturnwindowsfeatures" border="0"></a>
- <a href="https://ibb.co/FbtSxZy"><img src="https://i.ibb.co/3yHDr6j/6clickwwwservices.png" alt="6clickwwwservices" border="0"></a>
- <a href="https://ibb.co/2jChcrq"><img src="https://i.ibb.co/NLJCWqx/7applicationfeaturescgi.png" alt="7applicationfeaturescgi" border="0"></a>
+ <img width="1166" alt="4clickturnwindowsfeatures" src="https://user-images.githubusercontent.com/17282458/213870117-947792d4-59ed-41ad-b289-c3e3c16ffaa7.png">
+<img width="533" alt="5clickIIS" src="https://user-images.githubusercontent.com/17282458/213870131-497bdc94-a8ee-4de5-8bec-ad61dac62a30.png">
+<img width="649" alt="6clickwwwservices" src="https://user-images.githubusercontent.com/17282458/213870154-708869fe-159d-4805-a132-509d4914629f.png">
+<img width="1740" alt="8checkIISworking" src="https://user-images.githubusercontent.com/17282458/213870218-96a72a9e-5b73-4dba-92be-a397ef4a5e58.png">
 </p>
 <br />
+
 
 
 <p>
@@ -76,6 +80,7 @@ This tutorial walks through installing and configuring the dependencies required
 - <a href="https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link">MySQL 5.5.62</a>
  </p>
  <p>
+ <img width="1781" alt="9downloadthese5" src="https://user-images.githubusercontent.com/17282458/213870254-7095f9df-c4a3-48dc-ae5e-94c0f64c4bb5.png">
 </p>
 <br>
 
@@ -91,6 +96,8 @@ This tutorial walks through installing and configuring the dependencies required
 </p>
 <p>
 <a href="https://ibb.co/mz73pMx"><img src="https://i.ibb.co/ryJV91W/10these5downloaded.png" alt="10these5downloaded" border="0"></a>
+ <img width="1126" alt="10these5downloaded" src="https://user-images.githubusercontent.com/17282458/213870270-7ec29a49-a986-4271-a6ad-75a4f3018333.png">
+
 </p>
 <br />
 
