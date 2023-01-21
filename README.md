@@ -95,7 +95,6 @@ This tutorial walks through installing and configuring the dependencies required
 &emsp;- Setup an easy to remember password, i.e. Password1
 </p>
 <p>
-<a href="https://ibb.co/mz73pMx"><img src="https://i.ibb.co/ryJV91W/10these5downloaded.png" alt="10these5downloaded" border="0"></a>
  <img width="1126" alt="10these5downloaded" src="https://user-images.githubusercontent.com/17282458/213870270-7ec29a49-a986-4271-a6ad-75a4f3018333.png">
 
 </p>
