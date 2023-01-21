@@ -135,8 +135,8 @@ This tutorial walks through installing and configuring the dependencies required
 <p>
 9. Restart IIS (click restart button on IIS panel).
 </p>
-<p>
-<a href="https://ibb.co/p3VM0n7"><img src="https://i.ibb.co/8jvfKXC/restart-IISpreinstall.png" alt="restart-IISpreinstall" border="0"></a>
+<p><img width="1524" alt="restartIISpreinstall" src="https://user-images.githubusercontent.com/17282458/213870712-8194873c-7ca1-493a-a1f1-754d4b8b7f17.png">
+
 </p>
 <br />
 
