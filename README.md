@@ -126,9 +126,11 @@ This tutorial walks through installing and configuring the dependencies required
  - Provide path for php-cgi.exe to prompt.
 </p>
 <p>
-<a href="https://ibb.co/5MNDLy1"><img src="https://i.ibb.co/Qb2BMRJ/12registerphp.png" alt="12registerphp" border="0"></a>
- <a href="https://ibb.co/yntBnVy"><img src="https://i.ibb.co/ns98sRc/13phpmanager.png" alt="13phpmanager" border="0"></a>
- <a href="https://ibb.co/FBN59JP"><img src="https://i.ibb.co/nDZ7TfW/15providepath.png" alt="15providepath" border="0"></a>
+ <img width="1350" alt="12registerphp" src="https://user-images.githubusercontent.com/17282458/213870761-288c2a9c-e79c-4747-93f6-f80a0aae6706.png">
+<img width="1339" alt="13phpmanager" src="https://user-images.githubusercontent.com/17282458/213870765-8cf600c5-eedc-4b05-a671-5c0ca0ce769d.png">
+<img width="759" alt="15providepath" src="https://user-images.githubusercontent.com/17282458/213870769-7d81b8c1-4df9-4aec-b477-6c69dcc7eb03.png">
+
+ 
 </p>
 <br />
 
