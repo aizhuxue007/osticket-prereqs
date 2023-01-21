@@ -108,7 +108,11 @@ This tutorial walks through installing and configuring the dependencies required
 - extract all the files in the php.zip contents into C:/PHP
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img width="1792" alt="Screenshot 2023-01-21 at 9 43 01 AM" src="https://user-images.githubusercontent.com/17282458/213872064-26aacef8-746e-448d-9095-6d09d074c328.png">
+<img width="1213" alt="Screenshot 2023-01-21 at 9 43 43 AM" src="https://user-images.githubusercontent.com/17282458/213872071-e857f795-73a0-4055-86b8-f2ef114a5524.png">
+<img width="1192" alt="Screenshot 2023-01-21 at 9 43 59 AM" src="https://user-images.githubusercontent.com/17282458/213872075-cf46c96a-b71b-48bc-812a-f5fc969efa3d.png">
+<img width="1274" alt="Screenshot 2023-01-21 at 9 44 33 AM" src="https://user-images.githubusercontent.com/17282458/213872083-f2eed68d-7d70-472e-bc9c-e7243fb37b48.png">
+
 </p>
 <br />
 
